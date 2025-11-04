@@ -1,6 +1,8 @@
 # Grippo-ProyectoFinal
 Gestor de ideas e inspiración visual hecho con ASP.NET Core MVC + Vue.js. Incluye login con roles, subida de imágenes, API JWT y CRUD con AJAX.
 
+![Diagrama DB](https://github.com/fedegpo/Grippo-ProyectoFinal/blob/main/diagrama-db.png)
+
 ---
 
 ## Tecnologías
